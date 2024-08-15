@@ -1,4 +1,4 @@
-module github.com/liujiyong7/smaug/loader
+module github.com/bytedance/sonic/loader
 
 go 1.16
 
